@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/3column-preview-card-component-uxgA8Ak5QL)
+- Live Site URL: [Add live site URL here](https://transcendent-crostata-1db9e2.netlify.app/)
 
 
 
